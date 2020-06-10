@@ -1,0 +1,30 @@
+body {
+	font-family: Microsoft JhengHei;
+	background-color: #FFFFFC;
+}
+
+.content-title {
+	color: #D81E5B;
+	font-size: 50px;
+}
+
+.horizontal-center {
+	display: flex;
+	align-items: center;
+}
+
+.horizontal-center {
+	display: flex;
+	align-items: center;
+}
+
+.vertical-center {
+	justify-content: center;
+}
+
+.content-block {
+	height: 650px;
+	margin-top: 165px;
+	margin-bottom: : 100px;
+	background-color: #F7F0F5;
+}
