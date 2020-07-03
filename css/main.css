@@ -28,3 +28,17 @@ body {
 	margin-bottom: : 100px;
 	/*background-color: #F7F0F5;*/
 }
+
+.project-img {
+	opacity: 0.5;
+}
+
+.project-img:hover {
+	opacity: 1.0;
+}
+
+.contact-icon {
+	max-width: 50px;
+	max-height: 50px;
+	margin: 10px;
+}
